@@ -1,0 +1,8 @@
+{
+    "app": {
+        "cfengine": "lucee@5.3"
+    },
+    "web": {
+        "blockCFAdmin": "false"
+    }
+}
